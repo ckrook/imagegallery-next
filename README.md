@@ -1,6 +1,6 @@
 # Image Gallery with NextJS and Supabase
 
-I built this image gallery to try out NextJS own image component and image optimization.
+I built this image gallery to try out NextJS own image component and image optimization.<br />
 https://nextjs.org/docs/basic-features/image-optimization
 
 ## Installation
